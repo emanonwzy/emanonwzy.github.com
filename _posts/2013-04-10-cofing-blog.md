@@ -2,7 +2,7 @@
 layout: post
 title: "cofing blog"
 description: ""
-category: 其他
+category: Others
 tags: [其他]
 ---
 {% include JB/setup %}
