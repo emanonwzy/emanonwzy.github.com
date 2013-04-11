@@ -2,7 +2,7 @@
 layout: post
 title: "android tips"
 description: ""
-category: android¿ª·¢
+category: androidå¼€å‘
 tags: [Android]
 ---
 {% include JB/setup %}
@@ -11,7 +11,7 @@ Android Tips
 Android Layout
 -------------
 
-Á½¸öÔªËØÍ¬Ê±¾ÓÖĞ
+ä¸¤ä¸ªå…ƒç´ å±…ä¸­
 	<RelativeLayout
 		android:gravity="center"
 		/>
