@@ -12,7 +12,7 @@ Android Layout
 -------------
 
 两个元素同时居中
-><RelativeLayout
+> <RelativeLayout
 >	android:gravity="center"
 >	.../>
 >	<View android:id="@+id/view1"
@@ -21,4 +21,4 @@ Android Layout
 >	<View android:id="@+id/view2"
 >	    android:layout_centerInParent="true"
 >	.../>
-><RelativeLayout/>
+> <RelativeLayout/>
