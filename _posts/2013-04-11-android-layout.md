@@ -1,13 +1,14 @@
 ---
 layout: post
-title: "android tips"
+title: "android layout"
 description: ""
 category: android开发
-tags: [Android]
+tags: [android]
 ---
 {% include JB/setup %}
 Android Tips
 =============
+
 Android Layout
 -------------
 
